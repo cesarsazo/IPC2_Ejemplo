@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    color: brown;
+    align-items: center;   
+}

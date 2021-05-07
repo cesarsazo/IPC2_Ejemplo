@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EVENTOS>
+	<EVENTO>
+		Guatemala, 20/04/2021
+		Reportado por: bart@gmail.com
+		Usuarios afectados: homero@gmail.com, lisa@gmail.com
+		Error: 20001 - Desbordamiento de búfer de memoria RAM
+		en el servidor de correo electrónico.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 20/04/2021
+		Reportado por: homero@gmail.com
+		Usuarios afectados: bart@gmail.com, lisa@gmail.com
+		Error: 20002 - Error de destino, momento equivocado,
+		lugar equivocado y medios equivocados
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 25/04/2021
+		Reportado por: barni@gmail.com
+		Usuarios afectados: homero@gmail.com, lisa@gmail.com, 
+		moe@gmail.com, bart@gmail.com
+		Error: 20003 - Sobrecarga de informacion
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 20/04/2021
+		Reportado por: barni@gmail.com
+		Usuarios afectados: homero@gmail.com, lisa@gmail.com
+		Error: 20003 - Sobrecarga de informacion
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 25/04/2021
+		Reportado por: lisa@gmail.com
+		Usuarios afectados: moe@gmail.com, bart@gmail.com
+		Error: 20002 - Error de destino, momento equivocado,
+		lugar equivocado y medios equivocados
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 30/04/2021
+		Reportado por: mrburns@gmail.com
+		Usuarios afectados: apu@gmail.com, ned@gmail.com,
+		edna@gmail.com, moe@gmail.com, bart@gmail.com
+		Error: 20004 - Demasiados registros enviados,
+		no hay suficiente espacio de almacenamiento.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 30/04/2021
+		Reportado por: milhouse@gmail.com
+		Usuarios afectados: homero@gmail.com, lisa@gmail.com,
+		bart@gmail.com, moe@gmail.com
+		Error: 20003 - Sobrecarga de informacion
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 20/04/2021
+		Reportado por: nelson@gmail.com
+		Usuarios afectados: edna@gmail.com, bart@gmail.com
+		Error: 20001 - Desbordamiento de búfer de memoria RAM
+		en el servidor de correo electrónico.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 25/04/2021
+		Reportado por: nelson@gmail.com
+		Usuarios afectados: moe@gmail.com, bart@gmail.com
+		Error: 20003 - Sobrecarga de informacion
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 20/04/2021
+		Reportado por: Ralph321@gmail.com
+		Usuarios afectados: bart@gmail.com, lisa@gmail.com,
+		moe@gmail.com, skinner@gmail.com
+		Error: 20004 - Demasiados registros enviados,
+		no hay suficiente espacio de almacenamiento.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 25/04/2021
+		Reportado por: Ralph321@gmail.com
+		Usuarios afectados: apu@gmail.com, ned@gmail.com,
+		edna@gmail.com, moe@gmail.com, bart@gmail.com
+		Error: 20003 - Sobrecarga de informacion
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 30/04/2021
+		Reportado por: Ralph321@gmail.com
+		Usuarios afectados: homero@gmail.com, lisa@gmail.com
+		Error: 20001 - Desbordamiento de búfer de memoria RAM
+		en el servidor de correo electrónico.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 30/04/2021
+		Reportado por: Ralph321@gmail.com
+		Usuarios afectados: lisa@gmail.com
+		Error: 20003 - Sobrecarga de informacion
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 15/04/2021
+		Reportado por: carl092@gmail.com
+		Usuarios afectados: martin@gmail.com, maggy@gmail.com
+		Error: 20004 - Peticion no reconocida por el servidor,
+		not found error.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 30/04/2021
+		Reportado por: milhouse@gmail.com
+		Usuarios afectados: homero@gmail.com, lisa@gmail.com,
+		bart@gmail.com, moe@gmail.com
+		Error: 20004 - Peticion no reconocida por el servidor,
+		not found error.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 20/04/2021
+		Reportado por: nelson@gmail.com
+		Usuarios afectados: edna@gmail.com, bart@gmail.com
+		Error: 20004 - Peticion no reconocida por el servidor,
+		not found error.
+	</EVENTO>
+	<EVENTO>
+		Guatemala, 25/04/2021
+		Reportado por: nelson@gmail.com
+		Usuarios afectados: moe@gmail.com, bart@gmail.com
+		Error: 20004 - Peticion no reconocida por el servidor,
+		not found error.
+	</EVENTO>
+</EVENTOS>
