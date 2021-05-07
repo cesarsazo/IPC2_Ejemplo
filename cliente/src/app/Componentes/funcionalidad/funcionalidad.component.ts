@@ -22,4 +22,9 @@ export class FuncionalidadComponent implements OnInit {
     });
   }
 
+  enviar(){
+    let info = (<HTMLTextAreaElement>document.getElementById("data")).value
+    this.svc.enviarData(info)
+  }
+
 }

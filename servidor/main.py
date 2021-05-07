@@ -1,5 +1,7 @@
 from flask import Flask, request, url_for, redirect, jsonify
 from flask_cors import CORS
+from xml.etree import ElementTree as ET
+from xml.etree.ElementTree import XML, fromstring
 from findEmail import findEmail
 from moduleXml import returnArray
 import json
@@ -29,6 +31,14 @@ def correos():
         entrada = request.form['texto']
         response = findEmail(entrada)
         return jsonify(response)
+
+@app.route('/data', methods=['POST'])
+def data():
+    print("****************************")
+    xml = request.data
+    print(xml)
+    return "500"
+    
 
 @app.route('/obtenerTodo', methods=['GET'])
 def todo():
